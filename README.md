@@ -1,5 +1,5 @@
 from datetime import datetime
-import random
+import rando
 
 def new_things_every_day_32():
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
